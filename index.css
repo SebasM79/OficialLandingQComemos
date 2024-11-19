@@ -271,9 +271,11 @@
 }
 
 .property-1big-numbers-just-te .heading1 {
-  color: #793905; /* Color verde para el título principal */
+  color: #794502; /* Color verde para el título principal */
   font-size: 5rem; /* Ajusta el tamaño de la fuente */
   font-weight: bold; /* Aplica negrita */
+  text-align: center;
+  margin-left: 310px;
 }
 
 .property-1big-numbers-just-te .heading2 {
